@@ -1,0 +1,169 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    top: 10px;
+    color: #40514E;
+}
+
+h1{
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-size: 2.5em;
+    font-family: 'Sacramento', cursive;
+}
+.programmer{
+    font-size: 1em;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    padding-top: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.middle-container{
+    margin: 100px 0px;
+ }
+
+.top-cloud{
+    height: 17%;
+    width: 12%;
+    display: inline-block;
+    position: absolute;
+    right: 15%;
+}
+
+.bottom-cloud{
+    height: 17%;
+    width: 12%;
+    display: inline-block;
+    position: absolute;
+    top: 20%;
+    left: 15%;
+}
+
+.mountain{
+    display: inline-block;
+    width: 80%;
+    }
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+.profile-picture{
+    width: 12rem;
+    height: 10rem;
+    border-radius: 100%;
+}
+.math{
+    text-align: left;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.language{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.intro{
+    width: 50%;
+    margin: auto;
+}
+
+p{
+    line-height: 1.5;
+}
+
+hr{
+    border: dotted rgb(151, 238, 238) 8px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 1em;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  
+  .contactme-message{
+      width: 50%;
+      margin: 40px auto;
+  }
+  .iammaksat{
+      line-height: 1;
+  }
+  .bottom-section{
+      background-color: #66BFBF;
+      padding: 30px 0 5px;
+      text-align: center;
+  }
+  .footer{
+      color: #11999E;
+      text-decoration: none;
+      margin-right: 15px;  
+  }
+
+  .copyright{
+      color: #EAF6F6;
+      font-family: 'Merriweather', serif;
+      font-size: 0.75em;
+  }
+
+.instagram{
+    height: 40px;
+    width: 40px;
+    margin-right: 7px;
+}
+.telegram{
+    height: 40px;
+    width: 40px;
+    margin-right: 7px;
+    margin-left: 7px;
+}
+.imo{
+    height: 40px;
+    width: 40px;
+    margin-left: 7px;
+}
+a:hover{
+    zoom: 1.150;
+}
